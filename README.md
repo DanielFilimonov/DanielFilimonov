@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Привет!
 
-<!--
-**DanielFilimonov/DanielFilimonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Даниил, я frontend-разработчик с большим интересом к программированию и стремлением расти каждый день.
 
-Here are some ideas to get you started:
+Здесь вы найдете проекты, которые демонстрируют мои навыки и стиль разработки. Буду рад обратной связи и совместной работе!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технологический стек:
+* JavaScript (ES6+), TypeScript
+* React и его экосистема
+* HTML, CSS, Flexbox, Grid
+* SCSS/SASS
+* Figma, Pixso
+* БЭМ, Git, Webpack
+
+
+### 📫 Связь со мной:
+
+Электронная почта: [d.filimonov.dev@gmail.com](d.filimonov.dev@gmail.com)
+
+
+[![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/filhere))
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](d.filimonov.dev@gmail.com)
