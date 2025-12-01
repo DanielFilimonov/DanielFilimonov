@@ -18,5 +18,5 @@
 Электронная почта: [d.filimonov.dev@gmail.com](d.filimonov.dev@gmail.com)
 
 
-[![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/filhere))
+[![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/filhere)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](d.filimonov.dev@gmail.com)
